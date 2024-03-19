@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sivajidragon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sivajidragon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanaka sivaji pandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanaka sivaji pandi" height="30" width="40" /></a>
+<a href="https://codepen.io/Sivaji-Dragon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sivajidragon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanaka-sivaji-pandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanaka sivaji pandi" height="30" width="40" /></a>
 <a href="https://instagram.com/sivajireddy.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sivajireddy.p" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kanaka sivaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanaka sivaji" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kanakasivaji1239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanaka sivaji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
